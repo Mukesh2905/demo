@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "mukesh-clone",
+    "staging": "mukesh-clone"
+  },
+  "targets": {},
+  "etags": {}
+}
